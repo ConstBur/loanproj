@@ -1,7 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
   <groupId>cb</groupId>
+=======
+  <groupId>cb.loanproj</groupId>
+>>>>>>> d3058c55acadb9c3f1240a0a0946ac7c3133644f
   <artifactId>loanproj</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
