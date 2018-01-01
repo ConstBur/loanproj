@@ -1,0 +1,16 @@
+How to create a Web Java Project:
+
+1) Make a repository on GitHub
+2) Install Maven
+3) Make a local Git repository
+4) Attach local repo to GitHub
+5) Use Maven command archetype:generate to create a web project structure
+6) Edit pom.xml to include eclipse plugin
+7) Use mvn eclipse:eclipse to convert to Eclipse project
+8) Add source files
+9) Create JUnit tests
+10) Add dependencies (servlet-api and junit) to pom.xml
+11) Build the project
+12) Commit and push
+13) ...
+14) Profit!
